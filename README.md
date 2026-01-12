@@ -17,7 +17,7 @@ Designed and deployed a secure, high-availability web server using **Red Hat Ent
 ### 1. The Live Web Server
 *Verified public access via AWS Public IP, demonstrating successful web server configuration and DNS routing.*
 
-![Live Web Server Proof](website-proof.png)
+![Live Web Server Proof](website-proof.PNG)
 
 ### 2. Security Configuration
 *Verified internal firewall rules using `firewall-cmd`. This demonstrates that the http service was specifically allowed through the OS kernel firewall.*
